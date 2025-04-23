@@ -1,0 +1,5 @@
+A Tria tem por objetivo ser uma plataforma de gestão organizacional, possuindo  diversos módulos, cada qual com sua funcionalidade e preço. O intuito é fazer com que a aplicação atinja o máximo de clientes possível, nos mais diversos setores, que não tenham condições para contratar um serviço mais custoso de ERP, e pagando apenas pela demanda de sua empresa.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVPpuKVF7heLO3VhuXRqVEmc6uJlENJ12Xf1VA0HtI8VaQUMItzsNP7b0Uw2pqxCSr6mHjb-POzNsYHn_dOizlyyTfFWHyEWml87G6pWQW7Do1cdr6KYoaEC7W8RgEM36Qk9G_5w?key=AX4GEp7XA8gZfnLw72scb5vv)
+
+Esse documento serve única e exclusivamente para desenvolvimento, desenhado para os programadores desse projeto. Deve ditar a estrutura de código da aplicação, e a orientação de cada ferramenta, caso veja algo discrepante ou dubitável, utilize a ferramenta de comentário ou o modo de sugestão.
